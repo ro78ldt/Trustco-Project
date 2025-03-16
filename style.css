@@ -18,3 +18,7 @@ body {
     line-height: 1.6;
     background-color: var(--background-color);
 }
+
+nav {
+    display: flex;
+}
